@@ -1,8 +1,7 @@
 # F-VideoBed
 免费视频床/文件直链解决方案 \
 失效后不定时更新 
-### 目前版本信息: 
-能获取文件直链,支持无限大小任意文件,网页引用需要添加meta:
+
 ```html
 <meta name="referrer" content="no-referrer" />
 ```
