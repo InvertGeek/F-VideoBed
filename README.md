@@ -1,6 +1,6 @@
 # F-VideoBed
 免费视频床/文件直链解决方案 \
-失效后不定时更新 \
+失效后不定时更新，release所有版本均有效,失效后会删除 \
 下载: https://github.com/InvertGeek/F-VideoBed/releases
 
 ## 免责声明
